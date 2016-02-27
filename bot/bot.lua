@@ -206,6 +206,9 @@ function create_config( )
   config = {
     enabled_plugins = {
       "9gag",
+      "anti-bot",
+      "anti-flood",
+      "banhammer",
       "eur",
       "echo",
       "btc",
